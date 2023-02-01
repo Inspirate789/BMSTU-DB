@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS public.parts_of_speech_json(
+    id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    pos JSONB
+)

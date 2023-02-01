@@ -1,0 +1,8 @@
+{
+  "Host":     "localhost",
+  "Port":     5432,
+  "Username": "inspirate",
+  "Password": "12345",
+  "DBName":   "inspirate_db",
+  "SSLMode":  "disable"
+}
